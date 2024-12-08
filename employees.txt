@@ -1,0 +1,10 @@
+Alice, Active
+Bob, Active
+James Smith, Inactive
+Michael Smith, Active
+Robert Smith, Active
+Maria Garcia, Inactive
+David Smith, Active
+Maria Rodriguez, Active
+Mary Smith, Inactive
+Maria Hernandez, Active
